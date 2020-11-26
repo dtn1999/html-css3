@@ -12,3 +12,9 @@ $ git clone https://github.com/dtn1999/html-css3.git
 $ cd html-css3
 
 ```
+
+## Code Overview
+
+## Docs
+
+the santards using in the code base are from [w3schools](https://www.w3schools.com/)
